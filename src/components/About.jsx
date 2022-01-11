@@ -1,6 +1,6 @@
-import Me from '../assets/image/me.jpeg'
+import Me from '../assets/image/about.png'
 //import Socials from '../components/Socials'
-
+//babatunde-tunde-974019155
 const About = () => {
     return (
         <section className="about my-2 py-2">

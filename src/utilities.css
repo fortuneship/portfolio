@@ -192,6 +192,10 @@
   margin: 4rem;
 }
 
+.mx-1 {
+  margin-left: 1rem;
+}
+
 /* Padding */
 .py-1 {
   padding: 1rem 0;
