@@ -14,8 +14,8 @@ const Footer = () => {
                
             </div>
             <div class="social">
-                <a href="https://github.com/fortuneship"><i class="fab fa-github fa-2x"></i></a>
-                <a href="#"><i class="fab fa-twitter fa-2x"></i></a>
+                <a href="https://github.com/fortuneship/"><i class="fab fa-github fa-2x"></i></a>
+                <a href="https://twitter.com/tm_babatunde"><i class="fab fa-twitter fa-2x"></i></a>
                 <a href="https://www.linkedin.com/in/babatunde-tunde"><i class="fab fa-linkedin fa-2x"></i></a>
             </div>
         </div>

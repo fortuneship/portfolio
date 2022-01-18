@@ -80,6 +80,9 @@ pre {
 .navbar .logo {
   /* overflow: hidden; */
 }
+.navbar .logo-tag {
+  color: #1c3fa8;
+}
 
 .navbar ul {
   display: flex;
